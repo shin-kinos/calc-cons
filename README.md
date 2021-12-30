@@ -190,7 +190,7 @@ If you will not need any annotations, set `-t 0`.
 
 ### Output file format 
 
-A Lollipop Plot graph in PNG format. The X-axis is site number and the Y-axis is conservation score. See some example visualization files in `./demo` directory. 
+A Lollipop Plot graph in PNG format. The X-axis is site number and the Y-axis is conservation score. See some example visualization files in `./image` directory. 
 
 # cons-struct 
 
@@ -257,6 +257,8 @@ Finally, the target protein's residues are derived into 3 types of the solvent s
 * Exposed ( `RSA > 36%` ) 
 
 ## Flowchart 
+
+The process overview of `cons-struct`:
 
 ![readme image 2](./image/readme_flowchart.png) 
 
@@ -384,7 +386,7 @@ If you will not need any annotations, set `-t 0`.
 
 ### Output file format 
 
-A Lollipop Plot graph in PNG format. The X-axis is site number and the Y-axis is conservation score. See some example visualization files in `./demo` directory.  
+A Lollipop Plot graph in PNG format. The X-axis is site number and the Y-axis is conservation score. See some example visualization files in `./image` directory.  
 
 # Additional programs 
 
