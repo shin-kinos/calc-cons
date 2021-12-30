@@ -184,10 +184,10 @@ If you will not need any annotations, set `-t 0`.
 [ e.g. in `output.txt` as input file ] 
 
 ``` 
-% Rscript cons-capra07-plot.r -i output.out -o cons-capar07-plot.r_example -c 4 -t 20 -T "Conservation score in C-type lysozyme MSA" -s 2
+% Rscript cons-capra07-plot.r -i output.txt -o cons-capra07-plot.r_example -c 4 -t 15 -s 2
 ``` 
 
-// ! // [ readme image 1 ] ( DIR ) //
+![readme image 1](./image/cons-capra07-plot.r_example.png)
 
 ### Output file format 
 
