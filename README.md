@@ -412,7 +412,7 @@ The program should be compiled by using `Cargo`.🦀📦
 % cargo build --release
 ``` 
 
-Then, the object file `convert-cif-to-fasta` is generated in `/../../` directory. 
+Then, the object file `convert-cif-to-fasta` is generated in `./target/release` directory. 
 
 ### Input file format 
 
