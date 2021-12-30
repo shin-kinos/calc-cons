@@ -68,7 +68,7 @@ this program supports 2 methods for reducing redundancy in a MSA as follows:
 
 Finally, a gap penalty is given in each conservation score by using a simple gap-counting method. See more information about it below: 
 
-* ( https://github.com/shin-kinos/cons-capra07 ) 
+* cons-capra07 ( https://github.com/shin-kinos/cons-capra07 ) 
 
 ## Input file format 
 
