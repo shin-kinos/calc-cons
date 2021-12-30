@@ -258,7 +258,7 @@ Finally, the target protein's residues are derived into 3 types of the solvent s
 
 ## Flowchart 
 
-
+![readme image 2](./image/readme_flowchart.png) 
 
 ## Implementation 
 
@@ -378,6 +378,9 @@ If you will not need any annotations, set `-t 0`.
 ``` 
 % Rscript cons-struct-plot.r -i output.out -o cons-struct-plot.r_example -T "Residue conservation score in 6LU7_A" -S 25 -s 3 -t 5
 ``` 
+
+![readme image 3](./image/cons-struct-plot.r_example.png) 
+
 
 ### Output file format 
 
