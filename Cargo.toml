@@ -1,0 +1,2 @@
+[workspace]
+members = ["cif-to-fasta", "cons-capra07", "cons-struct"]
